@@ -21,7 +21,7 @@ Recognizing the need for strategic insights, AtliQ aims to optimize sales strate
 
     **1.** Create Profit and Loss (P&L) reports by [Fiscal Year](https://github.com/Abhinai116/Excel-Sales-and-Finance-Analytics-/blob/main/P%20%26%20L%20REPORT%20BY%20FISCAL%20YEARS.pdf) & [Quarters & Months](https://github.com/Abhinai116/Excel-Sales-and-Finance-Analytics-/blob/main/P%20%26%20L%20REPORT%20BY%20FISCAL%20MONTHS%20AND%20QUARTERS.pdf)
 
-   **2.** Create Profit and Loss (P&L) reports by [Markets](https://github.com/Pooja2514/Excel-Sales-Analytics-and-Finance-Analytics./blob/main/P%20%26%20L%20by%20Market.pdf)
+   **2.** Create Profit and Loss (P&L) reports by [Markets](https://github.com/Abhinai116/Excel-Sales-and-Finance-Analytics-/blob/main/P%20%26%20L%20MARKET%20REPORT.pdf)
 
 - **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
