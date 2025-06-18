@@ -6,7 +6,7 @@ Recognizing the need for strategic insights, AtliQ aims to optimize sales strate
 
 - **Project objective:** 
 
-    **1.** Create a [Indian customers performance report](https://github.com/Pooja2514/Excel-Sales-Analytics-and-Finance-Analytics./blob/main/Customer%20Performance%20Report.pdf) 
+    **1.** Create a [Indian customers performance report](https://github.com/Abhinai116/Excel-Sales-and-Finance-Analytics-/blob/main/INDIA%20CUSTOMERS%20PERFORMANCE%20REPORT.pdf) 
 
     **2.** Conduct a comprehensive comparison between [market performance and sales targets](https://github.com/Pooja2514/Excel-Sales-Analytics-and-Finance-Analytics./blob/main/Market%20Performance%20vs%20Target.pdf)
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
